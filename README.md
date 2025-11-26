@@ -6,7 +6,9 @@ The official released version of DNGLab can be found at the DNGLab GitHub page [
 # USAGE
 - Install [Python](https://www.python.org/downloads/)
 - Run the script
+
 <img width="612" height="325" alt="Screenshot 2025-11-26 at 13 15 34" src="https://github.com/user-attachments/assets/f6a34cfd-1f00-4044-844d-2a0284496df0" />
+
 - Go to preferences and locate the [DNGLab](https://github.com/dnglab/dnglab) executable
 - Set Default Output Folder
 - Set max concurrent jobs
