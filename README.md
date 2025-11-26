@@ -5,7 +5,11 @@ Official released of DNGLab can be found at the DNGLab github page [here](https:
 
 # USAGE
 Run the script
+
 Go to preferences and locate the DNGLab executable
+
 Add .CR3 files
+
 Set output folder
+
 Set output base name
