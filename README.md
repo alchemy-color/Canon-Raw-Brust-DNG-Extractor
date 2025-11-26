@@ -1,7 +1,6 @@
 # Canon-Raw-Brust-DNG-Extractor
 
-
- <video loop src="[movie.mp4](https://github.com/user-attachments/assets/1ec2c7f6-19dd-4b04-8339-bd6dbe86d008)">  video </video> 
+https://github.com/user-attachments/assets/1ec2c7f6-19dd-4b04-8339-bd6dbe86d008
 
 Canon EOS M6 MKII 5K raw .CR3 burst > DNG > Cineon export from Lightroom with CineStill 400D film emulation > Open gate 3:2 > Kodak 2383 Print Film Emulation + halation > Rec.709
 
