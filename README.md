@@ -26,6 +26,4 @@ DNGLab can be found at the DNGLab GitHub page [here](https://github.com/dnglab/d
 - Press Start
 
 # NOTES
-- Not tested on Windows or Linux systems
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/fEgQ8bU7B6M/0.jpg)](https://www.youtube.com/watch?v=fEgQ8bU7B6M)
+- Not tested on Windows or Linux systems, but I guess having the proper executable for given systems should work
